@@ -1,6 +1,4 @@
-# Quizzes
-
-These quizzes are the pre- and post-lecture quizzes for the web development for beginners curriculum at https://aka.ms/webdev-beginners
+# Quiz App
 
 ## Project setup
 
